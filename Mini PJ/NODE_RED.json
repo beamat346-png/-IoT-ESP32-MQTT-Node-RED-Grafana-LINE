@@ -1,0 +1,24 @@
+[
+    {
+        "id": "0fbc8e3f9ee0ed8d",
+        "type": "http request",
+        "z": "75530d0af023bed0",
+        "name": "Google Sheets",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1220,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    }
+]
